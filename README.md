@@ -13,7 +13,7 @@ Each folder contains a Visual Studio solution and project for the WinForms app.
 
 ## Requirements
 
-- Windows OS
+- DOTNET supported OS
 - .NET 10 SDK
 - Visual Studio Code
 
